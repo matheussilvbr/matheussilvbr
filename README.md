@@ -1,16 +1,15 @@
-### Hi there 👋
+👋Matheus aqui!
+Focado em desenvolvimento web. 💻
 
-<!--
-**matheussilvbr/matheussilvbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Estudando:
+Atualmente, estudo e aplico conhecimentos em projetos práticos. 🚀
 
-Here are some ideas to get you started:
+💡 Conhecimento em Back-end:
+Conhecimentos sólidos em Python, Java, c++ e PHP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Conhecimento em Front-end:
+Também estou familiarizado com linguagens Front-end como Html,CSS e JavaScript.
+
+📱 Próximo passo: Engenheiro de software.
+
+🚀Aberto a colaborações e sempre pronto para aprender!!
