@@ -1,54 +1,58 @@
+# 👋 Olá, eu sou Matheus Silva Braga
+
+🎓 Estudante de Ciência da Computação  
+💻 Focado em desenvolvimento com Python, automação e análise de dados  
+📊 Experiência com Power BI, SQL e VBA para criação de dashboards, automações e soluções orientadas a dados  
+⚙️ Também desenvolvo projetos web utilizando HTML, CSS, JavaScript e React  
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### 🐍 Programação & Automação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 📊 Dados & Business Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🌐 Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 📌 Sobre mim
+
+Atualmente atuo com foco em:
+
+- 🔹 Automação de processos com Python e VBA
+- 🔹 Manipulação e análise de dados
+- 🔹 Desenvolvimento de dashboards e relatórios no Power BI
+- 🔹 Consultas e modelagem com SQL
+- 🔹 Desenvolvimento de aplicações e interfaces web modernas
+
+Tenho interesse em tecnologia, inteligência artificial, automação e soluções orientadas a dados.
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
 
-  <h1>Hello World! 👋</h1>
-  <p>
-    I am Matheus, passionate about software and web development.<br>
-    Currently focused on learning and building projects using JavaScript and its modern frameworks like Node.js and React.<br>
-    I'm driven by curiosity and committed to becoming a Junior Software Developer.
-  </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <h2 align="center">✨ Technology Stack</h2>
-
-  <!-- LANGUAGES -->
-  <h3>Languages</h3>
-  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 15px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Python-%2314354C?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-%23b07219?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-%2300599c?style=flat-square&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-%234F5D95?style=flat-square&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-%23efd81d?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML-%23ff5722?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-%232196F3?style=flat-square&logo=css3&logoColor=white" />
-  </div>
-
-  <!-- FRAMEWORKS -->
-  <h3 style="font-size: 20px;">Frameworks & Libraries</h3>
-  <div style="border: 2px dashed #888; border-radius: 16px; padding: 20px; display: inline-block;">
-    <img src="https://img.shields.io/badge/Node.js-%2300bfa5?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-%23563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </div>
-
-  <h3>Goal</h3>
-  <p>
-    🎯 Seeking opportunities as a Junior Software Developer.<br>
-    🤝 Open to collaborations and always eager to learn!
-  </p>
-
-  <!-- GitHub Stats -->
-  <h2>📊 GitHub Statistics</h2>
-  <div align="center">
-    <table>
-      <tr>
-        <td>
-          <h3>Most Used Languages</h3>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdev&layout=compact&theme=radical" alt="Most Used Languages" style="width: 400px;" />
-        </td>
-        <td>
-          <h3>General Stats</h3>
-          <img src="https://github-readme-stats.vercel.app/api?username=matheusdev&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" style="width: 400px;" />
-        </td>
-      </tr>
-    </table>
-  </div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
+
+---
+
+## 🌎 Contato
+
+📧 seuemail@email.com  
+💼 LinkedIn: https://linkedin.com/in/seu-linkedin  
