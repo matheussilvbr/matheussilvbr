@@ -54,5 +54,5 @@ Tenho interesse em tecnologia, inteligência artificial, automação e soluçõe
 
 ## 🌎 Contato
 
-📧 seuemail@email.com  
-💼 LinkedIn: https://linkedin.com/in/seu-linkedin  
+📧 natheuzinhobraga@hotmail.com  
+💼 LinkedIn: [https://linkedin.com/in/seu-linkedin  ](https://www.linkedin.com/in/matheus-silva-braga-811091256/)
