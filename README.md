@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Matheus Silva Braga
 
-🎓 Estudante de Ciência da Computação  
+🎓 Formado em Ciência da Computação  
 💻 Focado em desenvolvimento com Python, automação e análise de dados  
 📊 Experiência com Power BI, SQL e VBA para criação de dashboards, automações e soluções orientadas a dados  
 ⚙️ Também desenvolvo projetos web utilizando HTML, CSS, JavaScript e React  
